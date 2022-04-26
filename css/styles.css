@@ -300,6 +300,9 @@ figure {
 img,
 svg {
   vertical-align: middle;
+  border-radius: 60px;
+  width: 350px;
+  height: 350px;
 }
 
 table {
